@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Meeting with Dr. Vinay Pudavalli"
+title:  "Meeting with Dr. Vinay Pudavalli / The James at The Ohio State University"
 date:   2015-05-20 07:47:00
 categories: oncologist update
 ---
