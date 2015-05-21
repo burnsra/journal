@@ -3,7 +3,7 @@ title: Robert Burns
 email: journal@robertburns.me
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my journal.  A place for random thoughts I might have.
-baseurl: "/journal" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://journal.robertburns.me" # the base hostname & protocol for your site
 twitter_username: burnsra
 github_username:  burnsra
