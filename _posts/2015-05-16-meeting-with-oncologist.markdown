@@ -2,8 +2,9 @@
 layout: post
 comments: true
 title:  "Meeting with the Oncologists"
-date:   2015-05-16 02:03:28
+date:   2015-05-16 13:00:00
 categories: oncologist update
+tags: [oncologist, update]
 ---
 Today we met with both the chemotherapy and radation oncologists.  Both meetings lasted about 1-1/2 hours.  The appointment with the chemotherapy oncologist, Richard Curry, was at 1:00 and the radiation oncologist, Luke Pater, was at 4:00.
 
@@ -12,7 +13,7 @@ Today we met with both the chemotherapy and radation oncologists.  Both meetings
   <li>Phase I - Consists of chemotherapy and radiation
     <ul>
       <li>Approximately 6-1/2 weeks in duration</li>
-      <li>Total of 33 radiation treatments</li> 
+      <li>Total of 33 radiation treatments</li>
       <li>Radiation is 5 days a week, Monday - Friday</li>
       <li>Chemo pill is taken 7 days a week</li>
         <ul>

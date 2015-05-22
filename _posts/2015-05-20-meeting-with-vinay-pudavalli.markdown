@@ -2,8 +2,9 @@
 layout: post
 comments: true
 title:  "Meeting with Dr. Vinay Pudavalli / The James at The Ohio State University"
-date:   2015-05-20 07:47:00
+date:   2015-05-20 13:00:00
 categories: oncologist update
+tags: [oncologist, update]
 ---
 Today we met with Dr. Vinay Pudavalli.  He holds several positions up at The James, the Comprehensive Cancer Center at The Ohio State University.  Current positions: Professor, Department of Neurological Surgery;Professor, Department of Neurology; Director, Division of Neuro-Oncology.  We had been exploring some clinical trial's and spoke about him to Dr. Curry, Mike's current Nuero-oncologist.  Jena got an appointment to see him and Dr. Curry agreed she should do whatever she could to get in and see him.  The goal of the appointment was to not only explore some clinical trials, but to also get a second opinion.
 
